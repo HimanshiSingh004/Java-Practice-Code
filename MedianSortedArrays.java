@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  * Created by Himanshi Singh on 7/24/2017
- */
+ **/
 public class MedianSortedArrays {
 
         public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
