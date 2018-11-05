@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * Created by Himanshi Singh on 8/7/2017.
+ * Created by Himanshi Singh on 8/7/2017
  */
 import java.util.*;
 
